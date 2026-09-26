@@ -1,0 +1,3 @@
+# Offline pipeline dependencies (Milestone 2)
+# sentence-transformers
+# numpy
